@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="status.xsl"?>
+
+<LibraryManagementSystem>
+    <Statuses>
+
+        <Status>
+            <Status_Code>1</Status_Code>
+            <Classification>Active</Classification>
+            <Condition>Good Condition</Condition>
+            <Fine>PHP0</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>2</Status_Code>
+            <Classification>Returned</Classification>
+            <Condition>Good Condition</Condition>
+            <Fine>PHP0</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>3</Status_Code>
+            <Classification>Returned</Classification>
+            <Condition>Damaged</Condition>
+            <Fine>PHP500</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>4</Status_Code>
+            <Classification>Late</Classification>
+            <Condition>Good Condition</Condition>
+            <Fine>PHP250</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>5</Status_Code>
+            <Classification>Late</Classification>
+            <Condition>Damaged</Condition>
+            
+
+
+<Fine>PHP1000</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>6</Status_Code>
+            <Classification>Not Returned</Classification>
+            <Condition>N/A</Condition>
+            <Fine>PHP1500</Fine>
+        </Status>
+
+    </Statuses>
+</LibraryManagementSystem>

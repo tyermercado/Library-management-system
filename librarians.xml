@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="librarians.xsl"?>
+
+<LibraryManagementSystem>
+     <Librarians>
+
+        <Librarian>
+            <LibrarianID>01</LibrarianID>
+            <FullName>Russel Reyes</FullName>
+            <Contact_Number>+63 9412683215</Contact_Number>
+        </Librarian>
+
+        <Librarian>
+            <LibrarianID>02</LibrarianID>
+            <FullName>Gemma Ramos</FullName>
+            <Contact_Number>+63 9652182501</Contact_Number>
+        </Librarian>
+
+    </Librarians>
+  
+</LibraryManagementSystem>

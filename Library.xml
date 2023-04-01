@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Library.xsl"?>
+
+<LibraryManagementSystem>
+    <Books>
+        <Book>
+            <BookID>00001</BookID>
+            <Title>Crack The Coding Interview</Title>
+            <Genre>Textbook</Genre>
+            <Author>Gayle Laakmann McDowell</Author>
+            <Publisher>CareerCup</Publisher>
+            <Year_Published>2008</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00002</BookID>
+            <Title>Crack The Coding Interview</Title>
+            <Genre>Textbook</Genre>
+            <Author>Gayle Laakmann McDowell</Author>
+            <Publisher>CareerCup</Publisher>
+            <Year_Published>2008</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00003</BookID>
+            <Title>Crack The Coding Interview</Title>
+            <Genre>Textbook</Genre>
+            <Author>Gayle Laakmann McDowell</Author>
+            <Publisher>CareerCup</Publisher>
+            <Year_Published>2008</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00004</BookID>
+            <Title>World History 101</Title>
+            <Genre>History</Genre>
+            <Author>Tom Head</Author>
+            <Publisher>Adams Media</Publisher>
+            <Year_Published>2017</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00005</BookID>
+            <Title>All the Light We Cannot See</Title>
+            <Genre>Historical Fiction</Genre>
+            <Author>Anthony Doerr</Author>
+            <Publisher>Simon and Schuster</Publisher>
+            <Year_Published>2014</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00006</BookID>
+            <Title>Earth Science</Title>
+            <Genre>Science</Genre>
+            <Author>Edward J.</Author>
+            <Publisher>Vibal</Publisher>
+            <Year_Published>1976</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00007</BookID>
+            <Title>Harry Potter and the Philosopher's Stone</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>1997</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00008</BookID>
+            <Title>Harry Potter and the Philosopher's Stone</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>1997</Year_Published>
+        
+
+
+</Book>
+
+        <Book>
+            <BookID>00009</BookID>
+            <Title>Harry Potter and the Chamber of Secrets</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>1998</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00010</BookID>
+            <Title>Harry Potter and the Chamber of Secrets</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>1998</Year_Published>
+        </Book>
+
+         <Book>
+            <BookID>00011</BookID>
+            <Title>Harry Potter and the Prisoner of Azkaban</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>1999</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00012</BookID>
+            <Title>Harry Potter and the Goblet of Fire</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>2000</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00013</BookID>
+            <Title>Harry Potter and the Order of the Phoenix</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>2003</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00014</BookID>
+            <Title>Harry Potter and the Half-Blood Prince</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>2005</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00015</BookID>
+            <Title>Harry Potter and the Half-Blood Prince</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>2005</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00016</BookID>
+            <Title>Harry Potter and the Half-Blood Prince</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            <Year_Published>2005</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00017</BookID>
+            <Title>Harry Potter and the Deathly Hallows</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Bloomsburry</Publisher>
+            
+
+
+<Year_Published>2007</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00018</BookID>
+            <Title>Harry Potter and the Cursed Child</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Scholastic, Inc</Publisher>
+            <Year_Published>2017</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00019</BookID>
+            <Title>Harry Potter and the Cursed Child</Title>
+            <Genre>Fantasy Fiction</Genre>
+            <Author>J.K. Rowling</Author>
+            <Publisher>Scholastic, Inc</Publisher>
+            <Year_Published>2017</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00020</BookID>
+            <Title>The Silent Patient</Title>
+            <Genre>Thriller</Genre>
+            <Author>Alex Micahelides</Author>
+            <Publisher>Votum Press</Publisher>
+            <Year_Published>2019</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00021</BookID>
+            <Title>The Silent Patient</Title>
+            <Genre>Thriller</Genre>
+            <Author>Alex Micahelides</Author>
+            <Publisher>Votum Press</Publisher>
+            <Year_Published>2019</Year_Published>
+        </Book>
+        <Book>
+            <BookID>00022</BookID>
+            
+
+
+<Title>The Silent Patient</Title>
+            <Genre>Thriller</Genre>
+            <Author>Alex Micahelides</Author>
+            <Publisher>Votum Press</Publisher>
+            <Year_Published>2019</Year_Published>
+        </Book>
+        
+        <Book>
+            <BookID>00023</BookID>
+            <Title>The Silent Patient</Title>
+            <Genre>Thriller</Genre>
+            <Author>Alex Micahelides</Author>
+            <Publisher>Votum Press</Publisher>
+            <Year_Published>2019</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00024</BookID>
+            <Title>The Bad Beginning</Title>
+            <Genre>Msytery</Genre>
+            <Author>Daniel Handler</Author>
+            <Publisher>HapperCollins</Publisher>
+            <Year_Published>1999</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00025</BookID>
+            <Title>Beyond Good and Evil</Title>
+            <Genre>Philosophy</Genre>
+            <Author>Friedrich Nietzsche</Author>
+            <Publisher>Simon and Schuster</Publisher>
+            <Year_Published>1886</Year_Published>
+        </Book>
+        
+        <Book>
+            <BookID>00026</BookID>
+            <Title>Salt Fat Acid Heat</Title>
+            <Genre>Food</Genre>
+            <Author>Samin Nosrat</Author>
+            <Publisher>Simon and Schuster</Publisher>
+            
+
+
+<Year_Published>2017</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00027</BookID>
+            <Title>Salt Fat Acid Heat</Title>
+            <Genre>Food</Genre>
+            <Author>Samin Nosrat</Author>
+            <Publisher>Simon and Schuster</Publisher>
+            <Year_Published>2017</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00028</BookID>
+            <Title>Flying Blind</Title>
+            <Genre>Politics</Genre>
+            <Author>Peter Robinson</Author>
+            <Publisher>737 Max Tragedy</Publisher>
+            <Year_Published>2020</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00029</BookID>
+            <Title>All American Christmas</Title>
+            <Genre>Biography</Genre>
+            <Author>Rachel and Sean Duffy</Author>
+            <Publisher>HarperCollins</Publisher>
+            <Year_Published>2021</Year_Published>
+        </Book>
+
+        <Book>
+            <BookID>00029</BookID>
+            <Title>All American Christmas</Title>
+            <Genre>Biography</Genre>
+            <Author>Rachel and Sean Duffy</Author>
+            <Publisher>HarperCollins</Publisher>
+            <Year_Published>2021</Year_Published>
+        </Book>
+
+        <Book>
+            
+
+
+<BookID>00030</BookID>
+            <Title>Dragon Hoops</Title>
+            <Genre>Graphic Novel</Genre>
+            <Author>Gene Luen Yang</Author>
+            <Publisher>Dragon Inc.</Publisher>
+            <Year_Published>2020</Year_Published>
+        </Book>
+    </Books> 
+
+
+<LibraryManagementSystem>
+    <Users>
+        <User>
+            <UserID>001</UserID>
+            <Type_No>1</Type_No>
+            <FullName>France Madia</FullName>
+            <Department>CCJE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9143702452</Contact_Number>
+            <Email_Address>madiafrance543@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>002</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Ian Balajadia</FullName>
+            <Department>CEAS</Department>
+            <Address>Tanauan City, Batangas</Address>
+            <Contact_Number>+63 9704912619</Contact_Number>
+            <Email_Address>ian_balajadia@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>003</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Mark Jamil Bari</FullName>
+            <Department>CENAR</Department>
+            <Address>Balete, Batangas</Address>
+            <Contact_Number>+63 9521187526</Contact_Number>
+            <Email_Address>jamilbari2@gmail.com</Email_Address>
+        </User>
+        
+        <User>
+            <UserID>004</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Vince Cortez</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9564156431</Contact_Number>
+            <Email_Address>cortezanibal@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>005</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Kenneth Vergara</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Mataas na Kahoy, Batangas</Address>
+            <Contact_Number>+63 9512183749</Contact_Number>
+            <Email_Address>kennethpogi123@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>006</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Noel Aldrei Gemeniano</FullName>
+            <Department>CITEC</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9589670491</Contact_Number>
+            <Email_Address>noelaxie143@gmail.com</Email_Address>
+        </User>
+
+         <User>
+            <UserID>007</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Raphael Atienza</FullName>
+            <Department>CCJE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9942524101</Contact_Number>
+            <Email_Address>aphy_atienza@gmail.com</Email_Address>
+        </User>
+        
+        <User>
+            <UserID>008</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Angela Mendoza</FullName>
+            <Department>CEAS</Department>
+            <Address>Padre Garcia, Batangas</Address>
+            <Contact_Number>+63 9453242720</Contact_Number>
+            <Email_Address>sisangela69@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>009</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Justine Ramirez</FullName>
+            <Department>CENAR</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9339684946</Contact_Number>
+            <Email_Address>memeykikay567@gmail.com</Email_Address>
+        </User>
+
+         <User>
+            <UserID>010</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Jade Jimenez</FullName>
+            <Department>CENAR</Department>
+            <Address>San Jose, Batangas</Address>
+            <Contact_Number>+63 9424705171</Contact_Number>
+            <Email_Address>jadejimenez321@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>011</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Jerico Catangui</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Taysan, Batangas</Address>
+            <Contact_Number>+63 9950542819</Contact_Number>
+            <Email_Address>jericorosales7@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>012</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Ayesha Mabilangan</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9738292951</Contact_Number>
+            <Email_Address>yeyebonel_0@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>013</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Robert Coro</FullName>
+            <Department>CITEC</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9482913467</Contact_Number>
+            <Email_Address>coro_robert@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>014</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Roi Andal</FullName>
+            <Department>CITEC</Department>
+            <Address>Malvar, Batangas</Address>
+            <Contact_Number>+63 9714631830</Contact_Number>
+            <Email_Address>roi_andal@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>015</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Tyer Mercado</FullName>
+            <Department>CITEC</Department>
+            <Address>Rosario, Batangas</Address>
+            <Contact_Number>+63 9427739352</Contact_Number>
+            <Email_Address>tyer_mercado@gmail.com</Email_Address>
+        </User>   
+    </Users>
+
+      <Users_Limitation>  
+        <User_Limitation>
+            <Type_No>1</Type_No>
+            <User_Type>Teacher</User_Type>
+            <Books_Limit>10</Books_Limit>
+            <Days_Limit>30</Days_Limit>
+        </User_Limitation>
+
+        <User_Limitation>
+            <Type_No>2</Type_No>
+            <User_Type>Student</User_Type>
+            <Books_Limit>5</Books_Limit>
+            <Days_Limit>14</Days_Limit>
+        </User_Limitation>
+    </Users_Limitation>
+
+
+     <Issued_Books>
+
+        <Issued_Book>
+            <Borrowers_No>001</Borrowers_No>
+            <Borrowers_FullName>Raphael Atienza</Borrowers_FullName>
+            <UserID>007</UserID>
+            <BookID>00007</BookID>
+            <Issued_Date>November 1, 2021</Issued_Date>
+            <Return_Date>November 15, 2021</Return_Date>
+            <Date_Returned>November 13, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+         <Issued_Book>
+            <Borrowers_No>002</Borrowers_No>
+            <Borrowers_FullName>Robert Coro</Borrowers_FullName>
+            <UserID>013</UserID>
+            <BookID>00002</BookID>
+            <Issued_Date>November 1, 2021</Issued_Date>
+            <Return_Date>November 15, 2021</Return_Date>
+            <Date_Returned>November 18, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>4</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>003</Borrowers_No>
+            <Borrowers_FullName>Roi Andal</Borrowers_FullName>
+            <UserID>014</UserID>
+            <BookID>00020</BookID>
+            <Issued_Date>November 2, 2021</Issued_Date>
+            <Return_Date>November 16, 2021</Return_Date>
+            <Date_Returned>N/A</Date_Returned>
+           
+
+
+ <LibrarianID>02</LibrarianID>
+            <Status_Code>6</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>004</Borrowers_No>
+            <Borrowers_FullName>Tyer Mercado</Borrowers_FullName>
+            <UserID>015</UserID>
+            <BookID>00004</BookID>
+            <Issued_Date>November 4, 2021</Issued_Date>
+            <Return_Date>November 19, 2021</Return_Date>
+            <Date_Returned>Novermber 21, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>5</Status_Code>
+        </Issued_Book>
+
+         <Issued_Book>
+            <Borrowers_No>005</Borrowers_No>
+            <Borrowers_FullName>Raphael Atienza</Borrowers_FullName>
+            <UserID>007</UserID>
+            <BookID>00009</BookID>
+            <Issued_Date>November 13, 2021</Issued_Date>
+            <Return_Date>November 27, 2021</Return_Date>
+            <Date_Returned>November 20, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>006</Borrowers_No>
+            <Borrowers_FullName>France Madia</Borrowers_FullName>
+            <UserID>001</UserID>
+            <BookID>00025</BookID>
+            <Issued_Date>November 15, 2021</Issued_Date>
+            <Return_Date>December 16, 2021</Return_Date>
+            <Date_Returned>N/A</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>1</Status_Code>
+        </Issued_Book>
+
+        
+
+
+<Issued_Book>
+            <Borrowers_No>007</Borrowers_No>
+            <Borrowers_FullName>Jerico Catangui</Borrowers_FullName>
+            <UserID>011</UserID>
+            <BookID>00026</BookID>
+            <Issued_Date>November 15, 2021</Issued_Date>
+            <Return_Date>December 1, 2021</Return_Date>
+            <Date_Returned>November 29, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>3</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>008</Borrowers_No>
+            <Borrowers_FullName>Jerico Catangui</Borrowers_FullName>
+            <UserID>011</UserID>
+            <BookID>00030</BookID>
+            <Issued_Date>November 15, 2021</Issued_Date>
+            <Return_Date>December 1, 2021</Return_Date>
+            <Date_Returned>November 29, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>009</Borrowers_No>
+            <Borrowers_FullName>Ian Balajadia</Borrowers_FullName>
+            <UserID>002</UserID>
+            <BookID>00004</BookID>
+            <Issued_Date>November 16, 2021</Issued_Date>
+            <Return_Date>December 27, 2021</Return_Date>
+            <Date_Returned>November 29, 2021</Date_Returned>
+            <LibrarianID>02</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>010</Borrowers_No>
+            <Borrowers_FullName>Ayesha Mabilangan</Borrowers_FullName>
+            <UserID>012</UserID>
+            <BookID>00021</BookID>
+            <Issued_Date>November 17, 2021</Issued_Date>
+            <Return_Date>December 2, 2021</Return_Date>
+            <Date_Returned>December 4, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>4</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>011</Borrowers_No>
+            <Borrowers_FullName>Justine Ramirez</Borrowers_FullName>
+            <UserID>009</UserID>
+            <BookID>00022</BookID>
+            <Issued_Date>November 17, 2021</Issued_Date>
+            <Return_Date>December 2, 2021</Return_Date>
+            <Date_Returned>December 1, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+    </Issued_Books>
+
+    <Statuses>
+
+        <Status>
+            <Status_Code>1</Status_Code>
+            <Classification>Active</Classification>
+            <Condition>Good Condition</Condition>
+            <Fine>PHP0</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>2</Status_Code>
+            <Classification>Returned</Classification>
+            <Condition>Good Condition</Condition>
+            <Fine>PHP0</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>3</Status_Code>
+            <Classification>Returned</Classification>
+            <Condition>Damaged</Condition>
+            <Fine>PHP500</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>4</Status_Code>
+            <Classification>Late</Classification>
+            <Condition>Good Condition</Condition>
+            <Fine>PHP250</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>5</Status_Code>
+            <Classification>Late</Classification>
+            <Condition>Damaged</Condition>
+            <Fine>PHP1000</Fine>
+        </Status>
+
+        <Status>
+            <Status_Code>6</Status_Code>
+            <Classification>Not Returned</Classification>
+            <Condition>N/A</Condition>
+            <Fine>PHP1500</Fine>
+        </Status>
+
+    </Statuses>
+
+
+     <Librarians>
+
+        <Librarian>
+            <LibrarianID>01</LibrarianID>
+            <FullName>Russel Reyes</FullName>
+            <Contact_Number>+63 9412683215</Contact_Number>
+        </Librarian>
+
+        <Librarian>
+            <LibrarianID>02</LibrarianID>
+            <FullName>Gemma Ramos</FullName>
+            <Contact_Number>+63 9652182501</Contact_Number>
+        </Librarian>
+
+    </Librarians>
+</LibraryManagementSystem>
+

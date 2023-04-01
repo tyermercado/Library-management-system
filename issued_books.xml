@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="issued_books.xsl"?>
+
+<LibraryManagementSystem>
+    <Issued_Books>
+
+        <Issued_Book>
+            <Borrowers_No>001</Borrowers_No>
+            <Borrowers_FullName>Raphael Atienza</Borrowers_FullName>
+            <UserID>007</UserID>
+            <BookID>00007</BookID>
+            <Issued_Date>November 1, 2021</Issued_Date>
+            <Return_Date>November 15, 2021</Return_Date>
+            <Date_Returned>November 13, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+         <Issued_Book>
+            <Borrowers_No>002</Borrowers_No>
+            <Borrowers_FullName>Robert Coro</Borrowers_FullName>
+            <UserID>013</UserID>
+            <BookID>00002</BookID>
+            <Issued_Date>November 1, 2021</Issued_Date>
+            <Return_Date>November 15, 2021</Return_Date>
+            <Date_Returned>November 18, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>4</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>003</Borrowers_No>
+            <Borrowers_FullName>Roi Andal</Borrowers_FullName>
+            <UserID>014</UserID>
+            <BookID>00020</BookID>
+            <Issued_Date>November 2, 2021</Issued_Date>
+            <Return_Date>November 16, 2021</Return_Date>
+            <Date_Returned>N/A</Date_Returned>
+           
+
+
+ <LibrarianID>02</LibrarianID>
+            <Status_Code>6</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>004</Borrowers_No>
+            <Borrowers_FullName>Tyer Mercado</Borrowers_FullName>
+            <UserID>015</UserID>
+            <BookID>00004</BookID>
+            <Issued_Date>November 4, 2021</Issued_Date>
+            <Return_Date>November 19, 2021</Return_Date>
+            <Date_Returned>Novermber 21, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>5</Status_Code>
+        </Issued_Book>
+
+         <Issued_Book>
+            <Borrowers_No>005</Borrowers_No>
+            <Borrowers_FullName>Raphael Atienza</Borrowers_FullName>
+            <UserID>007</UserID>
+            <BookID>00009</BookID>
+            <Issued_Date>November 13, 2021</Issued_Date>
+            <Return_Date>November 27, 2021</Return_Date>
+            <Date_Returned>November 20, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>006</Borrowers_No>
+            <Borrowers_FullName>France Madia</Borrowers_FullName>
+            <UserID>001</UserID>
+            <BookID>00025</BookID>
+            <Issued_Date>November 15, 2021</Issued_Date>
+            <Return_Date>December 16, 2021</Return_Date>
+            <Date_Returned>N/A</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>1</Status_Code>
+        </Issued_Book>
+
+        
+
+
+<Issued_Book>
+            <Borrowers_No>007</Borrowers_No>
+            <Borrowers_FullName>Jerico Catangui</Borrowers_FullName>
+            <UserID>011</UserID>
+            <BookID>00026</BookID>
+            <Issued_Date>November 15, 2021</Issued_Date>
+            <Return_Date>December 1, 2021</Return_Date>
+            <Date_Returned>November 29, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>3</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>008</Borrowers_No>
+            <Borrowers_FullName>Jerico Catangui</Borrowers_FullName>
+            <UserID>011</UserID>
+            <BookID>00030</BookID>
+            <Issued_Date>November 15, 2021</Issued_Date>
+            <Return_Date>December 1, 2021</Return_Date>
+            <Date_Returned>November 29, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>009</Borrowers_No>
+            <Borrowers_FullName>Ian Balajadia</Borrowers_FullName>
+            <UserID>002</UserID>
+            <BookID>00004</BookID>
+            <Issued_Date>November 16, 2021</Issued_Date>
+            <Return_Date>December 27, 2021</Return_Date>
+            <Date_Returned>November 29, 2021</Date_Returned>
+            <LibrarianID>02</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>010</Borrowers_No>
+            <Borrowers_FullName>Ayesha Mabilangan</Borrowers_FullName>
+            <UserID>012</UserID>
+            
+
+
+<BookID>00021</BookID>
+            <Issued_Date>November 17, 2021</Issued_Date>
+            <Return_Date>December 2, 2021</Return_Date>
+            <Date_Returned>December 4, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>4</Status_Code>
+        </Issued_Book>
+
+        <Issued_Book>
+            <Borrowers_No>011</Borrowers_No>
+            <Borrowers_FullName>Justine Ramirez</Borrowers_FullName>
+            <UserID>009</UserID>
+            <BookID>00022</BookID>
+            <Issued_Date>November 17, 2021</Issued_Date>
+            <Return_Date>December 2, 2021</Return_Date>
+            <Date_Returned>December 1, 2021</Date_Returned>
+            <LibrarianID>01</LibrarianID>
+            <Status_Code>2</Status_Code>
+        </Issued_Book>
+
+    </Issued_Books>
+
+</LibraryManagementSystem>

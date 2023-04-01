@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<LibraryManagementSystem>
+    <Users>
+        <User>
+            <UserID>001</UserID>
+            <Type_No>1</Type_No>
+            <FullName>France Madia</FullName>
+            <Department>CCJE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9143702452</Contact_Number>
+            <Email_Address>madiafrance543@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>002</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Ian Balajadia</FullName>
+            <Department>CEAS</Department>
+            <Address>Tanauan City, Batangas</Address>
+            <Contact_Number>+63 9704912619</Contact_Number>
+            <Email_Address>ian_balajadia@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>003</UserID>
+            <Type_No>1</Type_No>
+            
+
+
+<FullName>Mark Jamil Bari</FullName>
+            <Department>CENAR</Department>
+            <Address>Balete, Batangas</Address>
+            <Contact_Number>+63 9521187526</Contact_Number>
+            <Email_Address>jamilbari2@gmail.com</Email_Address>
+        </User>
+        
+        <User>
+            <UserID>004</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Vince Cortez</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9564156431</Contact_Number>
+            <Email_Address>cortezanibal@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>005</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Kenneth Vergara</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Mataas na Kahoy, Batangas</Address>
+            <Contact_Number>+63 9512183749</Contact_Number>
+            <Email_Address>kennethpogi123@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>006</UserID>
+            <Type_No>1</Type_No>
+            <FullName>Noel Aldrei Gemeniano</FullName>
+            <Department>CITEC</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9589670491</Contact_Number>
+            <Email_Address>noelaxie143@gmail.com</Email_Address>
+        </User>
+
+         <User>
+            <UserID>007</UserID>
+            <Type_No>2</Type_No>
+            
+
+
+<FullName>Raphael Atienza</FullName>
+            <Department>CCJE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9942524101</Contact_Number>
+            <Email_Address>aphy_atienza@gmail.com</Email_Address>
+        </User>
+        
+        <User>
+            <UserID>008</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Angela Mendoza</FullName>
+            <Department>CEAS</Department>
+            <Address>Padre Garcia, Batangas</Address>
+            <Contact_Number>+63 9453242720</Contact_Number>
+            <Email_Address>sisangela69@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>009</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Justine Ramirez</FullName>
+            <Department>CENAR</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9339684946</Contact_Number>
+            <Email_Address>memeykikay567@gmail.com</Email_Address>
+        </User>
+
+         <User>
+            <UserID>010</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Jade Jimenez</FullName>
+            <Department>CENAR</Department>
+            <Address>San Jose, Batangas</Address>
+            <Contact_Number>+63 9424705171</Contact_Number>
+            <Email_Address>jadejimenez321@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>011</UserID>
+            <Type_No>2</Type_No>
+            
+
+
+<FullName>Jerico Catangui</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Taysan, Batangas</Address>
+            <Contact_Number>+63 9950542819</Contact_Number>
+            <Email_Address>jericorosales7@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>012</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Ayesha Mabilangan</FullName>
+            <Department>CENTHRE</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9738292951</Contact_Number>
+            <Email_Address>yeyebonel_0@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>013</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Robert Coro</FullName>
+            <Department>CITEC</Department>
+            <Address>Lipa City, Batangas</Address>
+            <Contact_Number>+63 9482913467</Contact_Number>
+            <Email_Address>coro_robert@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>014</UserID>
+            <Type_No>2</Type_No>
+            <FullName>Roi Andal</FullName>
+            <Department>CITEC</Department>
+            <Address>Malvar, Batangas</Address>
+            <Contact_Number>+63 9714631830</Contact_Number>
+            <Email_Address>roi_andal@gmail.com</Email_Address>
+        </User>
+
+        <User>
+            <UserID>015</UserID>
+            <Type_No>2</Type_No>
+            
+
+
+<FullName>Tyer Mercado</FullName>
+            <Department>CITEC</Department>
+            <Address>Rosario, Batangas</Address>
+            <Contact_Number>+63 9427739352</Contact_Number>
+            <Email_Address>tyer_mercado@gmail.com</Email_Address>
+        </User>   
+    </Users>
+</LibraryManagementSystem>
