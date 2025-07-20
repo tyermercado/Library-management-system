@@ -15,7 +15,7 @@ This project is a **Library Management System** that uses **XML** for data stora
 
 - 🔐 Each book has a **unique ID**, even if books share the same title and author.
 - 📅 Tracks **book entry and release dates**.
-- 🔍 Includes a **live title search** feature to filter books dynamically as the user types.
+- 🔍 Includes a **title search** feature to filter books dynamically as the user types.
 
 
 ---
