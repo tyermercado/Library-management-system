@@ -25,3 +25,7 @@ This project is a **Library Management System** that uses **XML** for data stora
 - **XSLT** – Presentation and transformation of XML into HTML
 - **CSS** – Styling of output
 - **JavaScript** – Basic UI behavior and validation
+
+![Library Management System Screenshot](https://github.com/tyermercado/Library-management-system/blob/master/Library.png?raw=true)
+![Library Management System Screenshot](https://github.com/tyermercado/Library-management-system/blob/master/Library(2).png?raw=true)
+![Library Management System Screenshot](https://github.com/tyermercado/Library-management-system/blob/master/Library(3).png?raw=true)
