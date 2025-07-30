@@ -4,9 +4,7 @@ This project is a **Library Management System** that uses **XML** for data stora
 
 ---
 
-## 🧾 Project Description
 
-- 🎯 **Purpose:** Manage and track book borrowing within an academic library setting.
 - 📘 **Technology Stack:** XML for data representation, XSLT for transformation, CSS for styling, and JavaScript for interactivity.
 
 ---
